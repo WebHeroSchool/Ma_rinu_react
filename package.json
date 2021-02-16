@@ -1,0 +1,21 @@
+{
+  "name": "ma_rinu_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "say": "echo Hello World!",
+    "create": "mkdir build",
+    "delete": "rm -rf build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/Ma_rinu_react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/Ma_rinu_react/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/Ma_rinu_react#readme"
+}
